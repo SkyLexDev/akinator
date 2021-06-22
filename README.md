@@ -1,1 +1,1 @@
-# t-rk-eakinat-r
+# Türkçe Akinatör
